@@ -1,4 +1,4 @@
-# RAG Demo - Spring AI
+# RAG  - Spring AI
 
 A demonstration of RAG (Retrieval-Augmented Generation) technology using Spring AI with Ollama and PGVector.
 
